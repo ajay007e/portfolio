@@ -8,14 +8,14 @@ import Project_card from "../project_card/Project_card";
 const Complete_apps = () => {
   const projects = [
     {
-      img: first,
+      img: second,
       langs: ["html", "css", "javascript", "react", "tailwind css"],
       title: "Youtube Lite",
       disc: "Simple demo version of Youtube",
       link: "https://youtube-lite-ten.vercel.app/",
     },
     {
-      img: second,
+      img: first,
       langs: ["html", "css", "javascript", "sass", "vite"],
       title: "Movix",
       disc: "Movies and Series Information ",
