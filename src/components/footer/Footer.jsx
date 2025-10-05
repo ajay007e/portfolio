@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
         {/* bottom */}
         <div className="text-center text-[#ABB2BF] pb-8 mt-12">
-          © Copyright 2023. Made by Ajay
+          © Copyright {new Date().getFullYear()}. Made by Ajay
         </div>
       </div>
     </>
